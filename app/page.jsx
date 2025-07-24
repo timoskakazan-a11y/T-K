@@ -1,7 +1,7 @@
 'use client';
 
 import Player from './components/Player.jsx';
-import './globals.css';
+import './app/globals.css';
 
 export default function Home() {
   return (
